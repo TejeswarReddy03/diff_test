@@ -1,0 +1,1 @@
+import{aQ as r,aZ as t,D as u,a_ as a,C as s}from"./_virtual_wxt-plugins-CgS_BGdF.js";function n(){const e=r();return t({queryKey:[a.GetNuclearTimer],queryFn:()=>e.timers.getTimerById(s.Nuclear),refetchInterval:u.SECOND.ms,refetchOnMount:!0,refetchOnReconnect:!0,refetchOnWindowFocus:!0})}export{n as u};

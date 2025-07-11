@@ -1,0 +1,1 @@
+import{b as o}from"./route-block-B_A1xBdJ.js";import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{ap as n,aG as r}from"./_virtual_wxt-plugins-CgS_BGdF.js";const c={};function t(a,f){return r(),n("p",null,"/unlock")}typeof o=="function"&&o(c);const _=e(c,[["render",t]]);export{_ as default};
