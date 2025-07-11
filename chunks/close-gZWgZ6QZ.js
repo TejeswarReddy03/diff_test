@@ -1,1 +1,0 @@
-import{ap as o,aG as t,ax as r}from"./_virtual_wxt-plugins-B1XNwc1o.js";const a={viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"};function n(s,e){return t(),o("svg",a,e[0]||(e[0]=[r("path",{fill:"currentColor",d:"M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12z"},null,-1)]))}const l={name:"mdi-close",render:n};export{l as C};
